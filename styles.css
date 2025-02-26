@@ -55,3 +55,20 @@ li {
     padding: 5px;
     cursor: pointer;
 }
+
+h2 {
+    margin-top: 20px;
+    color: #333;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 5px;
+}
+
+select {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
